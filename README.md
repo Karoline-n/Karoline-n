@@ -1,11 +1,9 @@
 <h2 align="left">Oiii! Eu sou a Karoline</h2>
 
-Sou uma pessoa apaixonada por tecnologia e inovação, Possuo experiência em desenvolvimento Web e testes de software (QA), com habilidades consolidadas em plataformas como WordPress, Figma e Canva. Ao longo da minha trajetória, participei de diversas etapas de projetos, incluindo documentação técnica e gestão de qualidade. Atualmente, estou me aprofundando em linguagens de programação e técnicas de desenvolvimento.
-
-<div align="left">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=Karoline-n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karoline-n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div><br>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
